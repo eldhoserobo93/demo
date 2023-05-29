@@ -126,73 +126,7 @@
         "sub_title": "",
         "card_type": "medium_landscape",
         "items_category": "video",
-        "items": [
-          {
-            "content_details": [
-              {
-                "content_id": 243717,
-                "name": "LIVE VIDEO SOURCE 2",
-                "streaming_url": "akamai://MSL4_AWSDAI_USCA_STRM5",
-                "priority": 2
-              },
-              {
-                "content_id": 243718,
-                "name": "LIVE VIDEO SOURCE 1",
-                "streaming_url": "akamai://MSL4_AWSDAI_USCA_STRM5",
-                "priority": 1
-              }
-            ],
-            "event_id": 9580,
-            "event_group_id": 843,
-            "tv_everywhere": false,
-            "enable_button": true,
-            "button_title": "Watch Live",
-            "cx_eid": 160,
-            "short_name": "5th Match",
-            "content_type": "live",
-            "target_action": "video",
-            "target_type": "player",
-            "base_url_type": "dynamicUrl",
-            "target_url": "/iptvws/v2/playlist.asp",
-            "play_trailer": false,
-            "trailer": "",
-            "thumbnail": "/livehltsthumbnail/9580_live.jpg",
-            "score": {},
-            "img_path": "/apps/series/843/",
-            "thumbnails": {
-              "hrb": "9580-hrb.jpg",
-              "lgb": "9580-lgb.jpg",
-              "mdb": "9580-mdb.jpg"
-            },
-            "match_type": "T20",
-            "title": "Botswana vs Eswatini",
-            "tags": [
-              "Southern Africa Cup T20 2023"
-            ],
-            "sub_title": "Willowmoore Park, Benoni",
-            "event_gmt_start_date": "2023-05-29 05:30:00Z",
-            "event_gmt_end_date": "2023-05-29 11:00:00Z",
-            "gmt_start_date_ts": 1685338200,
-            "gmt_end_date_ts": 1685358000,
-            "team_one_name": "Botswana",
-            "need_login": 1,
-            "need_subscription": 1,
-            "team_two_name": "Eswatini",
-            "short_team_one_name": "BOT",
-            "short_team_two_name": "ESW",
-            "series_name": "Southern Africa Cup T20 2023",
-            "team_id_mapping": {
-              "Botswana": 1703836180,
-              "Eswatini": 389574950
-            },
-            "cc": [
-              "CA",
-              "US"
-            ],
-            "display_live_link": false,
-            "is_match_live": 1
-          }
-        ]
+        "items": []
       },
       {
         "title": "Trending Highlights",

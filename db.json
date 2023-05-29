@@ -118,62 +118,6 @@
               "CA",
               "US"
             ]
-          },
-          {
-            "title": "Maiden IPL hundred for Shubman Gill",
-            "sub_title": "62nd Match - Gujarat Titans vs Sunrisers Hyderabad",
-            "description": "TATA IPL 2023",
-            "event_group_id": 824,
-            "event_id": 9332,
-            "content_id": 242606,
-            "cc": [
-              "CA",
-              "US"
-            ],
-            "target_action": "video",
-            "target_type": "player",
-            "content_type": "highlight",
-            "need_login": 1,
-            "need_subscription": 1,
-            "priority": 2,
-            "enabled": true,
-            "trailer": "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/TATA_IPL_2023___Indian_Premier_League/9311/Highlights/BB/127.mp4/playlist.m3u8",
-            "enable_trailer": true,
-            "thumbnail": "https://aimages.willow.tv/ytThumbnails/9332_Gill_101runs.jpg",
-            "enable_button": true,
-            "button_title": "Watch",
-            "target_url": "",
-            "display_live_link": false,
-            "is_match_live": false,
-            "display_score_card": false
-          },
-          {
-            "title": "Maiden IPL hundred for Shubman Gill",
-            "sub_title": "62nd Match - Gujarat Titans vs Sunrisers Hyderabad",
-            "description": "TATA IPL 2023",
-            "event_group_id": 824,
-            "event_id": 9332,
-            "content_id": 242606,
-            "cc": [
-              "CA",
-              "US"
-            ],
-            "target_action": "video",
-            "target_type": "player",
-            "content_type": "highlight",
-            "need_login": 1,
-            "need_subscription": 1,
-            "priority": 2,
-            "enabled": true,
-            "trailer": "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/TATA_IPL_2023___Indian_Premier_League/9311/Highlights/BB/127.mp4/playlist.m3u8",
-            "enable_trailer": true,
-            "thumbnail": "https://aimages.willow.tv/ytThumbnails/9332_Gill_101runs.jpg",
-            "enable_button": true,
-            "button_title": "Watch",
-            "target_url": "",
-            "display_live_link": false,
-            "is_match_live": false,
-            "display_score_card": false
           }
         ]
       },
@@ -298,53 +242,6 @@
             "team_two_name": "Kent",
             "short_team_one_name": "SRY",
             "short_team_two_name": "KEN",
-            "cc": [
-              "CA",
-              "US"
-            ]
-          },
-          {
-            "content_id": 243659,
-            "title": "Mohit Sharma's 5-wicket haul against Mumbai Indians in Qualifier 2",
-            "sub_title": "Gujarat Titans vs Mumbai Indians",
-            "tags": [
-              "TATA IPL 2023 - Indian Premier League",
-              "Qualifier 2"
-            ],
-            "series_name": "TATA IPL 2023 - Indian Premier League",
-            "video_slug": "mohit-5wicket-gt-vs-mi-streaming-online-qualifier-2-tata-ipl-2023-indian-premier-league",
-            "content_type": "highlight",
-            "base_url_type": "dynamicUrl",
-            "target_action": "video",
-            "target_type": "player",
-            "target_url": "/iptvws/v2/playlist.asp",
-            "img_path": "/apps/series/824/9574/",
-            "thumbnails": {
-              "hrb": "243659-hrb.jpg",
-              "lgb": "243659-lgb.jpg",
-              "mdb": "243659-mdb.jpg"
-            },
-            "display_live_link": false,
-            "is_match_live": false,
-            "display_score_card": false,
-            "play_trailer": false,
-            "tv_everywhere": false,
-            "trailer": "",
-            "thumbnail": "/ytThumbnails/9574_Mohit_5Wicket.jpg",
-            "duration": "00:04:57",
-            "duration_seconds": 297,
-            "need_login": 0,
-            "need_subscription": 0,
-            "event_id": 9574,
-            "meta_data": "Mohit Sharma,Mohit Sharma 4 wickets,Mohit Sharma vs Mumbai Indians,Mohit 4 wickets,Sharma 4 wickets,Sharma bowling,Sharma wickets,Sharma wickets vs Mumbai Indians,Sharma best bowling,TATA IPL 2023 - Indian Premier League,Mumbai Indians vs Gujarat Titans,Mumbai Indians vs Gujarat Titans Qualifier 2,MI vs Gujarat Titans Qualifier 2 2023,MI vs Gujarat Titans Qualifier 2,MI vs Gujarat Titans  2023,",
-            "short_name": "Qualifier 2",
-            "created_date": "2023-05-26T18:55:50",
-            "modified_date": "2023-05-26T21:11:38",
-            "event_group_id": 824,
-            "team_one_name": "Gujarat Titans",
-            "team_two_name": "Mumbai Indians",
-            "short_team_one_name": "GT",
-            "short_team_two_name": "MI",
             "cc": [
               "CA",
               "US"
